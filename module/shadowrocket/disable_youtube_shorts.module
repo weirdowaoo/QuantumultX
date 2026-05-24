@@ -1,0 +1,6 @@
+#!name = 停用YouTube Shorts
+#!desc = 停用YouTube Shorts
+
+
+[URL Rewrite]
+^https?:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/reel\/ _ reject-dict

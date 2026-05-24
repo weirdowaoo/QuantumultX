@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,swdist.apple.com
-DOMAIN-SUFFIX,swscan.apple.com
-DOMAIN-SUFFIX,swcdn.apple.com
-DOMAIN-SUFFIX,gdmf.apple.com
-DOMAIN-SUFFIX,mesu.apple.com
-DOMAIN-SUFFIX,xp.apple.com
+DOMAIN,swdist.apple.com
+DOMAIN,swscan.apple.com
+DOMAIN,swcdn.apple.com
+DOMAIN,gdmf.apple.com
+DOMAIN,mesu.apple.com
+DOMAIN,xp.apple.com

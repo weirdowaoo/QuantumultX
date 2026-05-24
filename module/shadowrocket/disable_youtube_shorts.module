@@ -3,4 +3,4 @@
 
 
 [URL Rewrite]
-^https?:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/reel\/ _ reject-dict
+^https?:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/reel\/ _ reject-200
